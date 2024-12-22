@@ -1,0 +1,2 @@
+C:\Users\Ерхан\Desktop\Проекти\MiniServer.HTTP\MiniHTTP.Demo\obj\Debug\MiniHTTP.Demo.csproj.AssemblyReference.cache
+C:\Users\Ерхан\Desktop\Проекти\MiniServer.HTTP\MiniHTTP.Demo\obj\Debug\MiniHTTP.Demo.csproj.CoreCompileInputs.cache

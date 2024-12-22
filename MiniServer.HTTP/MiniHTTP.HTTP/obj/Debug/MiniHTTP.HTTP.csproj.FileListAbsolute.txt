@@ -1,0 +1,6 @@
+C:\Users\Ерхан\Desktop\Проекти\MiniServer.HTTP\MiniHTTP.HTTP\bin\Debug\MiniHTTP.HTTP.dll
+C:\Users\Ерхан\Desktop\Проекти\MiniServer.HTTP\MiniHTTP.HTTP\bin\Debug\MiniHTTP.HTTP.pdb
+C:\Users\Ерхан\Desktop\Проекти\MiniServer.HTTP\MiniHTTP.HTTP\obj\Debug\MiniHTTP.HTTP.csproj.AssemblyReference.cache
+C:\Users\Ерхан\Desktop\Проекти\MiniServer.HTTP\MiniHTTP.HTTP\obj\Debug\MiniHTTP.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Ерхан\Desktop\Проекти\MiniServer.HTTP\MiniHTTP.HTTP\obj\Debug\MiniHTTP.HTTP.dll
+C:\Users\Ерхан\Desktop\Проекти\MiniServer.HTTP\MiniHTTP.HTTP\obj\Debug\MiniHTTP.HTTP.pdb
